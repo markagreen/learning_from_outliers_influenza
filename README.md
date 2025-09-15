@@ -1,4 +1,4 @@
-# Learning from the outliers: A longitudinal ecological study of social and spatial inequalities in older adult influenza vaccination and hospitalisation (Cheshire and Merseyside, UK)
+# Learning from the outliers
 
 A repo to replicate the analyses in the paper:
 
