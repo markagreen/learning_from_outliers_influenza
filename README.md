@@ -1,4 +1,4 @@
-# Learning from the outliers
+# Learning from the outliers - influenza
 
 A repo to replicate the analyses in the paper:
 
